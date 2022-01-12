@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GeometryDlg</class>
+ <widget class="QWidget" name="GeometryDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>20</y>
+     <width>98</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QLabel" name="xlabel">
+      <property name="text">
+       <string>x():</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="ylabel">
+      <property name="text">
+       <string>y();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="frameGeolabel">
+      <property name="text">
+       <string>frameGeometry();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="poslabel">
+      <property name="text">
+       <string>pos();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="geolabel">
+      <property name="text">
+       <string>geometry();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="widthlabel">
+      <property name="text">
+       <string>width():</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="heightlabel">
+      <property name="text">
+       <string>height();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="rectlabel">
+      <property name="text">
+       <string>rect();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="sizelabel">
+      <property name="text">
+       <string>size():</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>98</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>x():</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>y();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>frameGeometry();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>pos();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>geometry();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>width():</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_9">
+      <property name="text">
+       <string>height();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string>rect();</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>size():</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
